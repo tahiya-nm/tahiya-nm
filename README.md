@@ -13,11 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Tahiya</h1>
-<h3 align="center">An aspiring Machine Learning/Software Engineer</h3>
+<h3 align="center">Aspiring Machine Learning/Software Engineer</h3>
 
-- 🔭 I’m currently working with **Google to build a ML model to predict YouTube video virality**
-
-- 📫 How to reach me **tahiyamahin@gmail.com**
+- 🔭 I’m currently working as a fellow with **Google to build a machine learning model to predict YouTube video virality**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
