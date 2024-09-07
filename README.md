@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Tahiya</h1>
 <h3 align="center">Aspiring Machine Learning/Software Engineer</h3>
 
-- 🔭 I’m currently working as a fellow with **Google to build a machine learning model to predict YouTube video virality**
+- 🔭 I’m currently working as a fellow with **Google** through Break Through Tech AI Studio to build a machine learning model to predict YouTube video virality**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
