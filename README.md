@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Tahiya</h1>
 🎓 Senior at the University of Illinois Springfield, studying Computer Science
 💬 Aspiring Software Engineer with an interest in Machine Learning
+
 🔭 I’m currently working as a fellow with **Google** through Break Through Tech AI Studio to build a machine learning model to predict YouTube video virality
 
-I love tackling real-world problems through data analysis and predictive modeling. I’m big on continuously learning and building my skills, and believe taking initiative is key to growth. (Ask me about growing my technical skills and leadership as a Break Through Tech FellowLinks to an external site.!) Currently, I'm focusing on building machine learning models and diving deeper into artificial intelligence. I’m looking to leverage and grow my skills in a position where I can contribute to exciting projects and learn from industry professionals - got any leads? Let me know!
+
+⚡ I love tackling real-world problems through data analysis and predictive modeling. I’m big on continuously learning and building my skills, and believe taking initiative is key to growth. (Ask me about growing my technical skills and leadership as a Break Through Tech FellowLinks to an external site.!) Currently, I'm focusing on building machine learning models and diving deeper into artificial intelligence. I’m looking to leverage and grow my skills in a position where I can contribute to exciting projects and learn from industry professionals - got any leads? Let me know! ⚡
 
 🛠 Tech Stack:
 Languages: Python, Java, C++
@@ -29,6 +31,7 @@ Databases: SQL, MySQL
 
 📫 How to Reach Me:
 Email: tahiyamahin@gmail.com
+
 LinkedIn: linkedin.com/in/tahiya-mahin
 
 📊 GitHub Stats: Coming soon!
