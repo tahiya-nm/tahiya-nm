@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 ⚡ Currently, I'm focusing on building machine learning models and diving deeper into artificial intelligence. I’m looking to leverage and grow my skills in a position where I can contribute to exciting projects and learn from industry professionals - got any leads? Let me know! ⚡
 
 🛠 Tech Stack:
-Languages: Python, Java, C++
-Data Science: Pandas, NumPy, scikit-learn, TensorFlow
-Web Dev: HTML, CSS, JavaScript (basic), Node.js
-Tools: Jupyter Notebooks, Google Colab, Git, GitHub
-Databases: SQL, MySQL
+> Languages: Python, Java, Javascript
+> Data Science: Pandas, NumPy, scikit-learn, TensorFlow
+> Web Dev: HTML, CSS, JavaScript (basic), Node.js
+> Tools: Jupyter Notebooks, Google Colab, Git, GitHub
+> Databases: SQL, MySQL
 
 
 📫 How to Reach Me:
