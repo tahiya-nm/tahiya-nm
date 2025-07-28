@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Tahiya</h1>
-<h4 🎓 CS Major @ University of Illinois Springfield </h4>
-<h4 💬 Software Engineer specializing in AI/ML </h4>
-<h4 🏢 Previous Experiences @ Google, Mayo Clinic, Cornell Tech, UIS, & Gunnison Consulting Group </h4>
-<h4 🔭 2+ YOE (intern/fellow) </h4>
+🎓 CS Major @ University of Illinois Springfield <br />
+💬 Software Engineer specializing in AI/ML <br />
+🏢 Previous Experiences @ Google, Mayo Clinic, Cornell Tech, UIS, & Gunnison Consulting Group <br />
+🔭 2+ YOE (intern/fellow) <br />
 
 
 ⚡ I love tackling real-world problems through data analysis and predictive modeling. I’m big on continuous learning and building my skills, and believe taking initiative is key to growth. (Ask me about growing my technical skills and leadership as a Break Through Tech Fellow!) 
