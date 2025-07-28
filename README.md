@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 💬 Software Engineer specializing in AI/ML <br />
 🏢 Previous Experiences @ Google, Mayo Clinic, Cornell Tech, UIS, & Gunnison Consulting Group <br />
 🔭 2+ YOE (intern/fellow) <br />
-
+<br />
 
 ⚡ I love tackling real-world problems through data analysis and predictive modeling. I’m big on continuous learning and building my skills, and believe taking initiative is key to growth. (Ask me about growing my technical skills and leadership as a Break Through Tech Fellow!) 
-
+<br />
 ⚡ Currently, I'm focusing on building machine learning models and diving deeper into artificial intelligence. I’m looking to leverage and grow my skills in a position where I can contribute to exciting projects and learn from industry professionals - got any leads? Let me know! ⚡
-
+<br />
 🛠 Tech Stack:
 > Languages: Python, Java, Javascript
 > Data Science: Pandas, NumPy, scikit-learn, TensorFlow
