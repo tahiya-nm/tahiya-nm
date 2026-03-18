@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 📫 How to Reach Me:
 
-Email: tahiyamahin@gmail.com
+Email: tahiyamahin@gmail.com  
 LinkedIn: https://www.linkedin.com/in/tahiya-mahin/ 
 
