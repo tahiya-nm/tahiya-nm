@@ -90,10 +90,4 @@ Check out my latest post 👇
     </a> -->
 </div>
 
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
-
-<!--
-     Thanks for being my guest <3
--->
-
