@@ -1,32 +1,9 @@
-<!--
-**tahiya-nm/tahiya-nm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Tahiya+Mahin;Software+Engineer;AI+Engineer" alt="AI Engineer"/>
 </a>
-
-<!--
-    Your own Terminal GIF can be created here -> https://www.terminalgif.com
--->
-
-<!-- <div>
-    <img src="./assets/about_me.gif" alt="About Me Terminal GIF"/>
-</div> -->
 
 
 <!--
@@ -40,6 +17,36 @@ Here are some ideas to get you started:
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=fastapi,graphql,nginx,supabase,threejs,docker,kubernetes)](https://skillicons.dev)
+
+
+<h3 align="center">Git Stats</h3>
+
+<div align="center">
+ 
+  <img src="https://streak-stats.demolab.com/?user=tahiya-nm&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <br>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tahiya-nm&custom_title=Tahiya's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<br>
+<div align="center">
+<!-- <table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahiya-nm&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tahiya-nm&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tahiya-nm&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+    </td>
+  </tr>
+</table> -->
+
+</div>
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=tahiya-nm&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Tahiya's GitHub stats"> -->
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahiya-nm&theme=highcontrast&hide_border=true">
 
 <!--
      I also have my own blog with useful information, check it out ^^
@@ -90,4 +97,4 @@ Check out my latest post 👇
     </a> -->
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
